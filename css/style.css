@@ -1,0 +1,39 @@
+body{
+    background-color: azure;
+}
+h1{
+    
+    margin-bottom: 0px;
+
+
+}
+p{
+    margin-top: 0;
+}
+
+.firstDiv{
+
+    width: 200px;
+    height: 200px;
+    
+    background-color: yellowgreen;
+border: solid 10px;
+
+padding: 10px;
+}
+.secondDiv{
+background-color: tomato;
+width: 200px;
+height: 200px;
+
+margin-left: 240px;
+
+}
+.thirdDiv{
+    background-color: violet;
+    width: 200px;
+    height: 200px;
+    
+    margin-left: 440px;
+
+}

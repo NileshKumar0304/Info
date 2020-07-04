@@ -1,0 +1,26 @@
+body{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+#c1{
+    position: absolute;
+    left: 50px;
+}
+
+#c2{
+    position: fixed;
+    left: 1000px;
+}
+
+h1{
+    font-family: 'Bilbo Swash Caps';
+    font-size: 100px;
+    
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+}
+p{
+    font-family: 'Asap', sans-serif;
+}
