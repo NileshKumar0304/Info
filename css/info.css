@@ -1,6 +1,7 @@
 body{
     background-color: whitesmoke;
     text-align: center;
+    margin: 0;;
 }
 
 #c1{
@@ -15,12 +16,55 @@ body{
 
 h1{
     font-family: 'Bilbo Swash Caps';
-    font-size: 100px;
-    
+    font-size: 100px;    
     margin-top: 0px;
     margin-bottom: 0px;
 
 }
 p{
     font-family: 'Asap', sans-serif;
+    position: relative;
+    margin: auto 10px auto 20px;
 }
+h2{
+    color: #58b4ae;
+    margin-top: 5rem;
+}
+.myPic{
+    position: relative;
+}
+.skillImg{
+    float: left;
+    margin-left: 25%;
+    height: 150px;
+    width: 150px;
+    margin-right: 2rem;
+}
+.beer{
+    float: right;
+    margin-right: 25%;
+    height: 150px;
+    width: 150px;
+    margin-left: 2rem;
+    
+    
+}
+
+.skill{
+    position: relative;
+}
+button{
+    color: #58b4ae;
+}
+input{
+    margin: 5px auto auto auto;
+}
+.foot{
+    
+    margin-top: 4rem;
+    text-align: center;
+    background-color:#58b4ae ;
+    padding: 10px;
+
+}
+
